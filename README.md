@@ -7,7 +7,7 @@ I'm a Web Developer Student
 I'm switching careers, from Mechanical engineering. I have always liked technology and I've found at Trybe the opportunity to make this career switch. I love to travel, to watch movies and TV series, and I also like to play beach volley.
 
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
-* 🖥️  See my portfolio at [GitHub](http://philiplages.github.io/)
+* 🖥️  See my portfolio at [GitHub Pages](http://philiplages.github.io/)
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm learning HTML, CSS, JavaScript, Flexbox CSS
 * 🤝  I'm open to collaborating on Front-End projects
