@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip Lages
 =============================
 
-I'm a Web Developer Student
+I'm a Full Stack Web Developer Student
 ---------------------------
 
 I'm switching careers, from Mechanical engineering. I have always liked technology and I've found at Trybe the opportunity to make this career switch. I love to travel, to watch movies and TV series, and I also like to play beach volley.
