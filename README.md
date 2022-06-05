@@ -13,6 +13,8 @@ I'm switching careers, from Mechanical engineering. I have always liked technolo
 * 🤝  I'm open to collaborating on Front-End projects
 * ⚡  I'm looking forward to learn React, Agile methodologies, Redux, SQL, Docker and more!
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Skills
 
 <p align="left">
