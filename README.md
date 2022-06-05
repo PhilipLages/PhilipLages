@@ -1,10 +1,16 @@
 Hi 👋 My name is Philip Lages
 =============================
 
-I'm a Full Stack Web Development Student
+Full Stack Web Development Student
 ---------------------------
 
 I'm switching careers, from Mechanical engineering. I have always liked technology and I've found at Trybe the opportunity to make this career switch. I love to travel, to watch movies and TV series, and I also like to play beach volley.
+
+About Trybe:
+
+"Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where the person only pays when they get a good job."
+
+The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
 * 🖥️  See my portfolio at [GitHub Pages](http://philiplages.github.io/)
