@@ -15,9 +15,9 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
 * 🖥️  See my portfolio at [GitHub Pages](http://philiplages.github.io/)
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
-* 🧠  I'm learning HTML, CSS, JavaScript, Flexbox CSS
+* 🧠  I'm learning React, Agile methodologies and Redux
 * 🤝  I'm open to collaborating on Front-End projects
-* ⚡  I'm looking forward to learn React, Agile methodologies, Redux, SQL, Docker and more!
+* ⚡  I'm looking forward to learn SQL, Node, Docker and more!
 
 ![](https://komarev.com/ghpvc/?username=PhilipLages&style=for-the-badge)
 
