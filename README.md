@@ -7,6 +7,7 @@ Full Stack Web Development Student
 I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at Trybe the opportunity to invest in this area professionally. 
 
 I love traveling, and getting to know new cultures, so I'm looking for a chance to fulfill my dreams in technology.
+
 About Trybe:
 
 "Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where the person only pays when they get a good job."
