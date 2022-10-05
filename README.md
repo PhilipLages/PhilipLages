@@ -15,9 +15,9 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
 * 🖥️  See my portfolio at [GitHub Pages](http://philiplages.github.io/)
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
-* 🧠  I'm learning React, Agile methodologies and Redux
+* 🧠  I'm learning Docker and Node.js
 * 🤝  I'm open to collaborating on Front-End projects
-* ⚡  I'm looking forward to learn SQL, Node, Docker and more!
+* ⚡  I'm looking forward to learn SQL, TypeScript and more!
 
 ![](https://komarev.com/ghpvc/?username=PhilipLages&style=for-the-badge)
 
@@ -34,7 +34,7 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/philip.lages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/PhilipLages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/philiplages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philiplages/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19183766/philip-lages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
+<p align="left"><a href="http://www.instagram.com/philiplages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/philiplages/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19183766/philip-lages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
