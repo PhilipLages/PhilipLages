@@ -4,7 +4,7 @@ Hi 👋 My name is Philip Lages
 Full Stack Web Development Student
 ---------------------------
 
-I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found in Trybe the opportunity to invest in this area professionally. 
+I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at Trybe the opportunity to invest in this area professionally. 
 
 I love traveling, and getting to know new cultures, so I'm looking for a chance to fulfill my dreams in technology.
 About Trybe:
