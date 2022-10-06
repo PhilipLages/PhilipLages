@@ -15,7 +15,6 @@ About Trybe:
 The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
 
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
-* 🖥️  See my portfolio at [GitHub Pages](http://philiplages.github.io/)
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm learning Docker and Node.js
 * 🤝  I'm open to collaborating on Front-End projects
