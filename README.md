@@ -4,7 +4,7 @@ Hi 👋 My name is Philip Lages
 Front-End Web Developer
 ---------------------------
 
-I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at Trybe the opportunity to invest in this area professionally. 
+I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at [Trybe](https://www.betrybe.com/) the opportunity to invest in this area professionally. 
 
 I love traveling, and getting to know new cultures, so I'm looking for a chance to fulfill my dreams in technology.
 
@@ -16,9 +16,9 @@ The program has more than 1,500 hours of classroom and online classes, covers in
 
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
-* 🧠  I'm learning Docker and Node.js
+* 🧠  I'm currently studying the Back-End module at Trybe
 * 🤝  I'm open to collaborating on Front-End projects
-* ⚡  I'm looking forward to learn SQL, TypeScript and more!
+* ⚡  I'm looking forward to learn TypeScript, Mongo DB, Python and more!
 
 ![](https://komarev.com/ghpvc/?username=PhilipLages&style=for-the-badge)
 
