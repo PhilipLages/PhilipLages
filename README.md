@@ -6,16 +6,9 @@ Front-End Web Developer
 
 I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at [Trybe](https://www.betrybe.com/) the opportunity to invest in this area professionally. 
 
-I love traveling, and getting to know new cultures, so I'm looking for a chance to fulfill my dreams in technology.
-
-About Trybe:
-
-"Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology, where the person only pays when they get a good job."
-
-The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills.
+I love traveling, coding and getting to know new cultures, so I'm looking for a chance to fulfill my dreams with technology.
 
 * 🌍  I'm based in Vila Velha, Espirito Santo - Brazil
-* ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm currently studying the Back-End module at Trybe
 * 🤝  I'm open to collaborating on Front-End projects
 * ⚡  I'm looking forward to learn TypeScript, Mongo DB, Python and more!
