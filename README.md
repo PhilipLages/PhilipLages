@@ -4,7 +4,7 @@ Hi 👋 My name is Philip Lages
 Front-End Web Developer
 ---------------------------
 
-I am in career transition, and have a degree in mechanical engineering. I have always liked technology, so I found at [Trybe](https://www.betrybe.com/) the opportunity to invest in this area professionally. 
+I graduated in mechanical engineering, but I found myself studying web development, and at [Trybe](https://www.betrybe.com/) I got the opportunity to invest in this field professionally. 
 
 I love traveling, coding and getting to know new cultures, so I'm looking for a chance to fulfill my dreams with technology.
 
