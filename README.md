@@ -9,7 +9,7 @@ I graduated in mechanical engineering, but I found myself studying web developme
 I love traveling, coding and getting to know new cultures, so I'm looking for a chance to fulfill my dreams with technology.
 
 * 🧠  I'm currently studying the Back-End module at Trybe
-* 🤝  I'm open to collaborating on Front-End projects
+* 🤝  I'm open to collaborating on Front-End, Back-End and Full-Stack projects
 * ⚡  I'm looking forward to learn Mongo DB, Python, Java and more!
 
 ![](https://komarev.com/ghpvc/?username=PhilipLages&style=for-the-badge)
