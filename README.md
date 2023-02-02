@@ -8,6 +8,7 @@ I graduated in mechanical engineering, but I found myself studying web developme
 
 I love traveling, coding and getting to know new cultures, so I'm looking for a chance to fulfill my dreams with technology.
 
+* ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm currently studying the Back-End module at Trybe
 * 🤝  I'm open to collaborating on Front-End, Back-End and Full-Stack projects
 * ⚡  I'm looking forward to learn Mongo DB, Python, Java and more!
