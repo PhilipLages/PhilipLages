@@ -1,7 +1,7 @@
 Hi 👋 My name is Philip Lages
 =============================
 
-Front-End Web Developer
+Full-Stack Web Developer
 ---------------------------
 
 I graduated in mechanical engineering, but I found myself studying web development. Now I love coding and at [Trybe](https://www.betrybe.com/) I got the opportunity to invest in this field professionally. 
