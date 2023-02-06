@@ -8,7 +8,7 @@ I graduated in mechanical engineering, but I fell in love studying web developme
 
 I pride myself on my strong organizational and leadership skills, and I am always eager to learn and improve. I am a fast learner and thrive in a team environment. My ultimate goal is to work for a company that values innovation and is at the forefront of technology.
 
-I love traveling, coding and getting to know new cultures, so I plan to fulfill my dreams through technology.
+I love traveling, coding, watching movies and TV shows, and getting to know new cultures.
 
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm currently studying the Back-End module at Trybe
