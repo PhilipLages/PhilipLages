@@ -11,7 +11,7 @@ I love traveling, coding, watching movies and TV shows, and getting to know new 
 * ✉️  You can contact me at [psilvaelages@gmail.com](mailto:psilvaelages@gmail.com)
 * 🧠  I'm currently studying the Back-End module at Trybe
 * 🤝  I'm open to collaborating on Front-End, Back-End and Full-Stack projects
-* ⚡  I'm looking forward to learn Mongo DB, Python, Java and more!
+* ⚡  I'm looking forward to learn Python, Java and more!
 
 ![](https://komarev.com/ghpvc/?username=PhilipLages&style=for-the-badge)
 
